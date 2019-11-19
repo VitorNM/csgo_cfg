@@ -1,1 +1,5 @@
--refresh 144 -tickrate 128 -threads 12 -w 1920 -h 1080 -nojoy -nod3d9ex -noaafonts -novid -high +mat_queue_mode 2 +clientport 2006 +exec autoexec.cfg
+Atual:
+-refresh 144 -tickrate 128 -threads 12 -w 1920 -h 1080 -nojoy -nod3d9ex -novid -high +mat_queue_mode 2 +clientport 2006 +exec autoexec.cfg
+
+Antiga:
+-refresh 144 -tickrate 128 -threads 12 -w 1920 -h 1080 -nojoy -nod3d9ex -disable_d3d9ex -noaafonts -novid -high +mat_queue_mode 2 +clientport 2006 +exec autoexec.cfg
